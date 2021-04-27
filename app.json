@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "SocialApp",
+    "slug": "SocialApp",
+    "version": "9.3.1",
+    "orientation": "portrait",
+    "icon": "./assets/DefaultIcon.png",
+    "splash": {
+      "image": "./assets/launchscreen.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Social Networking UI theme built using React Native, NativeBase, Redux that supports iOS & Android. An app inspired from Facebook, provides all necessary screens like post, chat, profile and lots more."
+  }
+}
